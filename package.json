@@ -1,0 +1,23 @@
+{
+  "name": "multiply-table",
+  "version": "1.0.0",
+  "description": "multiply table implements",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Visualrainy/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397.git"
+  },
+  "keywords": [
+    "multiply",
+    "table"
+  ],
+  "author": "visual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Visualrainy/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397/issues"
+  },
+  "homepage": "https://github.com/Visualrainy/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397#readme"
+}
